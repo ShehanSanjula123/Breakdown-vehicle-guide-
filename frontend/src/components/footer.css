@@ -1,0 +1,28 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .contactInfo,
+  .socialLinks,
+  .quickLinks {
+    margin-bottom: 20px;
+  }
+  
+  .socialLinks a,
+  .quickLinks a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .socialLinks a:hover,
+  .quickLinks a:hover {
+    text-decoration: underline;
+  }
+  
+  
